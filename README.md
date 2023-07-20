@@ -9,9 +9,6 @@ const JosuePieroValenzuelaAncco = {
   code: [ "JavaScript"],
   askMeAbout: ["Backend Dev"],
   technologies: {
-    frontEnd: {
-      js: ["React", "Angular"],
-    },
     backEnd: {
       js: ["NodeJs", "NestJs"]
     },
